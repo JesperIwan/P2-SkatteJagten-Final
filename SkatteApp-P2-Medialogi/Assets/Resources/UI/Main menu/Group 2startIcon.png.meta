@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 068dd8eb062079b4a9fd7c18565ec080
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1575272566499768904
+    second: Group 2startIcon_0
+  - first:
+      213: 6602645171741481293
+    second: Group 2startIcon_1
+  - first:
+      213: 2979078040659547847
+    second: Group 2startIcon_2
+  - first:
+      213: 7609630137845699791
+    second: Group 2startIcon_3
+  - first:
+      213: -751755803567810690
+    second: Group 2startIcon_4
+  - first:
+      213: 8149835081108981817
+    second: Group 2startIcon_5
+  - first:
+      213: 8765863726061067192
+    second: Group 2startIcon_6
+  - first:
+      213: -6551324916593020767
+    second: Group 2startIcon_7
+  - first:
+      213: 925347361615677452
+    second: Group 2startIcon_8
+  - first:
+      213: -2992639240433579549
+    second: Group 2startIcon_9
+  - first:
+      213: -5138759522639270357
+    second: Group 2startIcon_10
+  - first:
+      213: 8972448480149155383
+    second: Group 2startIcon_11
+  - first:
+      213: -5484959299441942245
+    second: Group 2startIcon_12
+  - first:
+      213: 5561269614231051387
+    second: Group 2startIcon_13
+  - first:
+      213: -2019148446540755529
+    second: Group 2startIcon_14
+  - first:
+      213: 4424497917311698100
+    second: Group 2startIcon_15
+  - first:
+      213: 8072927925529152454
+    second: Group 2startIcon_16
+  - first:
+      213: 4983879120108384507
+    second: Group 2startIcon_17
+  - first:
+      213: 1022041579699311530
+    second: Group 2startIcon_18
+  - first:
+      213: -6004973661146054975
+    second: Group 2startIcon_19
+  - first:
+      213: -1452384614742638427
+    second: Group 2startIcon_20
+  - first:
+      213: 9194318709344074693
+    second: Group 2startIcon_21
+  - first:
+      213: 1647497497819361607
+    second: Group 2startIcon_22
+  - first:
+      213: -8960861847909539675
+    second: Group 2startIcon_23
+  - first:
+      213: 9054294047217000129
+    second: Group 2startIcon_24
+  - first:
+      213: 6174141476910886388
+    second: Group 2startIcon_25
+  - first:
+      213: -1913846386140658067
+    second: Group 2startIcon_26
+  - first:
+      213: -7070267819154282328
+    second: Group 2startIcon_27
+  - first:
+      213: 9105696162327041721
+    second: Group 2startIcon_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Group 2startIcon_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1056
+        width: 149
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84af2a69d0e7cd510800000000000000
+      internalID: 1575272566499768904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1056
+        width: 110
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4959972dce41ab50800000000000000
+      internalID: 6602645171741481293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 961
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6dda3b1bfc75920800000000000000
+      internalID: 2979078040659547847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 962
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc45666fa46da9960800000000000000
+      internalID: 7609630137845699791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 962
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e779082641a3195f0800000000000000
+      internalID: -751755803567810690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_5
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 962
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938848b93d70a1170800000000000000
+      internalID: 8149835081108981817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1024
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb1a558d9a96a970800000000000000
+      internalID: 8765863726061067192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 941
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0be42e2b40515a0800000000000000
+      internalID: -6551324916593020767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 962
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0882fec58e77dc00800000000000000
+      internalID: 925347361615677452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 962
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9cf0d67720876d0800000000000000
+      internalID: -2992639240433579549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 941
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e2ee2c0757fa8b0800000000000000
+      internalID: -5138759522639270357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 962
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ea8c8ca5a848c70800000000000000
+      internalID: 8972448480149155383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_12
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 962
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11a945e39281e3b0800000000000000
+      internalID: -5484959299441942245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_13
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 962
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c5a60df399d2d40800000000000000
+      internalID: 5561269614231051387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 843
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd082f8f2b8af3e0800000000000000
+      internalID: -2019148446540755529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 842
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4c1dee969f66d30800000000000000
+      internalID: 4424497917311698100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 843
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb0f721d2dc80070800000000000000
+      internalID: 8072927925529152454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 842
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0fb8d67ab4a2540800000000000000
+      internalID: 4983879120108384507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_18
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 903
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa318a7d6650f2e00800000000000000
+      internalID: 1022041579699311530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_19
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 843
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceffc9554c0aaca0800000000000000
+      internalID: -6004973661146054975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 903
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0c50153e718dbe0800000000000000
+      internalID: -1452384614742638427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 842
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb7e2e0728c89f70800000000000000
+      internalID: 9194318709344074693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 842
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7413ed5de361dd610800000000000000
+      internalID: 1647497497819361607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_23
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 843
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0600240af94a380800000000000000
+      internalID: -8960861847909539675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_24
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 843
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce9d48d67057ad70800000000000000
+      internalID: 9054294047217000129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_25
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 842
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd674416f4fea550800000000000000
+      internalID: 6174141476910886388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_26
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 843
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66cb6f0ad6a075e0800000000000000
+      internalID: -1913846386140658067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_27
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 10
+        width: 223
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8ee6cd0ec51ed90800000000000000
+      internalID: -7070267819154282328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Group 2startIcon_28
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 207
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b614246a6eed5e70800000000000000
+      internalID: 9105696162327041721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Group 2startIcon_0: 1575272566499768904
+      Group 2startIcon_1: 6602645171741481293
+      Group 2startIcon_10: -5138759522639270357
+      Group 2startIcon_11: 8972448480149155383
+      Group 2startIcon_12: -5484959299441942245
+      Group 2startIcon_13: 5561269614231051387
+      Group 2startIcon_14: -2019148446540755529
+      Group 2startIcon_15: 4424497917311698100
+      Group 2startIcon_16: 8072927925529152454
+      Group 2startIcon_17: 4983879120108384507
+      Group 2startIcon_18: 1022041579699311530
+      Group 2startIcon_19: -6004973661146054975
+      Group 2startIcon_2: 2979078040659547847
+      Group 2startIcon_20: -1452384614742638427
+      Group 2startIcon_21: 9194318709344074693
+      Group 2startIcon_22: 1647497497819361607
+      Group 2startIcon_23: -8960861847909539675
+      Group 2startIcon_24: 9054294047217000129
+      Group 2startIcon_25: 6174141476910886388
+      Group 2startIcon_26: -1913846386140658067
+      Group 2startIcon_27: -7070267819154282328
+      Group 2startIcon_28: 9105696162327041721
+      Group 2startIcon_3: 7609630137845699791
+      Group 2startIcon_4: -751755803567810690
+      Group 2startIcon_5: 8149835081108981817
+      Group 2startIcon_6: 8765863726061067192
+      Group 2startIcon_7: -6551324916593020767
+      Group 2startIcon_8: 925347361615677452
+      Group 2startIcon_9: -2992639240433579549
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
